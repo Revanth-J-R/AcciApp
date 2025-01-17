@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354221499576",
+    "project_id": "acciaid-5925c",
+    "storage_bucket": "acciaid-5925c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354221499576:android:2850338fe2a8ec6060404d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXf2Ft4rxnmjVZ_bJahbkYEtqLwXqqaAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
